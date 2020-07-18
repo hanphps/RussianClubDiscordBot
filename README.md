@@ -1,5 +1,5 @@
 # RussianClubDiscordBot
-Small project to add better functionality to [Georgia Tech Russian Club Discord Guild](www.gtrussian.club).
+Small project to add better functionality to Georgia Tech Russian Club Discord Guild.
 
 ## Functionalities
 * Word of the Day
